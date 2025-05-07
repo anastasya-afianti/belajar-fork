@@ -24,7 +24,7 @@
                     </div>
                     <div class="mt-4 d-flex justify-content-start">
                         <button type="submit" class="btn btn-primary px-4">
-                            <i class="bi bi-save"></i> <strong>Simpan Data</strong>
+                            <i class="bi bi-save"></i> <strong>Simpan dan Tambah Data</strong>
                         </button>
                     </div>
                 </form>
